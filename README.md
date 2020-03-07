@@ -2,7 +2,7 @@
 The project uses CNN based approach to converthand gesture to form paragraphs. <br/>
 The dataset is available in this link 
 
-The file **NOTrequirement.txt** contains all the libraries I have in my system. So in case of some error appropriate version of required library could be installed.  
+The file **NOTrequirement.txt** contains all the libraries I have in my system. So in **case of some error, appropriate version of required library could be installed.**    
 **The file NOTrequirement.txt is not required to be installed completely.**
 
 Run the file  **MyApp2.py** to start the program.  
