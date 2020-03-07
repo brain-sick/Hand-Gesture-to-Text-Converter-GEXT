@@ -6,6 +6,7 @@ The file **NOTrequirement.txt** contains all the libraries I have in my system. 
 **The file NOTrequirement.txt is not required to be installed completely.**
 
 Run the file  **MyApp2.py** to start the program.  
+Gesture are given in **https://docs.google.com/document/d/1eOi4raACW0jCi5aLbvc3uTaiAjDwFYpoAC9jEwlNaS8/edit?usp=sharing**
 Press enter to start bankground determination , make sure that you are to the left of your system, so that you don't interfer with the region of interest.  
 30 seconds after background determination starts, press **S** to start gesture recognition, a new window containing predicted output will be shown.  
 Now make valid gestures inside the region highlighted in front of your webcam.  
