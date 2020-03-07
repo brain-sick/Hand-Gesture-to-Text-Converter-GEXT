@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\EMINACK\\Desktop\\27-class\\TrainedModel\\GestureRecogModel.tfl"
+all_model_checkpoint_paths: "C:\\Users\\EMINACK\\Desktop\\27-class\\TrainedModel\\GestureRecogModel.tfl"
