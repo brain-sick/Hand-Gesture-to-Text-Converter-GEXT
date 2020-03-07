@@ -1,6 +1,6 @@
 # Hand-Gesture-to-Text-Converter-GEXT
 The project uses CNN based approach to converthand gesture to form paragraphs. <br/>
-The dataset is available in this link 
+The dataset is available in this link https://drive.google.com/drive/folders/1ejRWKWzXoNih9MT2E8m19hFtVjB9XXCk?usp=sharing
 
 The file **NOTrequirement.txt** contains all the libraries I have in my system. So in **case of some error, appropriate version of required library could be installed.**    
 **The file NOTrequirement.txt is not required to be installed completely.**
